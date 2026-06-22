@@ -138,6 +138,7 @@ b.  Besoins de la direction → caractéristique NIST
         - Conserver les données clients dans un environnement contrôlé → ce besoin n'est pas couvert par une caractéristique NIST ; il relève du choix du modèle de déploiement.
 
 c.  Modèle de service par composant
+
         (i) Tableau de bord partagé → SaaS : outil de visualisation prêt à l'emploi (type Tableau Online, Metabase), aucune infrastructure à gérer.
 
         (ii) Calcul des prédictions à l'heure → PaaS (ou FaaS si chaque exécution est courte et déclenchée par un événement) : une plateforme managée type Databricks exécute le pipeline ML sans gestion de serveur par la PME.
